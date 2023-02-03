@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>About Page</h1>
+        <h1>About Page GIT</h1>
     <hr>
     <h2>{{ name }}</h2>
     <button @click="onChangeName">
